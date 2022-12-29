@@ -1,3 +1,5 @@
+cd
+rm -rf work
 cd ..
 cd usr/etc
 rm -rf bash.bashrc
